@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About the nebulae project
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The nebulae project is envisioned as an educational introduction to systems programming.  This is intended to be a long-term project, a labor of love, if you will.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, there's just a bit of UEFI C code and some (very old) Zig code.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Otherwise, keep checking back and we'll update this section as more content is added.
