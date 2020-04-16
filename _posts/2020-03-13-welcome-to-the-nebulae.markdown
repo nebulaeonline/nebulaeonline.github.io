@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the nebulae"
+title:  "Welcome to the nebulae project"
 date:   2020-03-13 18:18:51 -0400
 categories: nebulae update
 ---
